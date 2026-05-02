@@ -3,7 +3,7 @@ package empty
 import (
 	"fmt"
 
-	"github.com/komari-monitor/komari/utils/messageSender/factory"
+	"github.com/rabbits0209/komari/utils/messageSender/factory"
 )
 
 type Addition struct {

@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/komari-monitor/komari/utils/messageSender/factory"
+	"github.com/rabbits0209/komari/utils/messageSender/factory"
 )
 
 type TelegramSender struct {

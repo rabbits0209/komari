@@ -4,9 +4,9 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/komari-monitor/komari/api"
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database"
+	"github.com/rabbits0209/komari/api"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database"
 )
 
 func GetPublicSettings(c *gin.Context) {

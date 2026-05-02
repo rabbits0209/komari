@@ -7,7 +7,7 @@ import (
 	"log/slog"
 	"time"
 
-	komari_utils "github.com/komari-monitor/komari/utils"
+	komari_utils "github.com/rabbits0209/komari/utils"
 	"gorm.io/gorm"
 	gormlogger "gorm.io/gorm/logger"
 	"gorm.io/gorm/utils"

@@ -5,9 +5,9 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/komari-monitor/komari/api"
-	"github.com/komari-monitor/komari/database/models"
-	"github.com/komari-monitor/komari/database/tasks"
+	"github.com/rabbits0209/komari/api"
+	"github.com/rabbits0209/komari/database/models"
+	"github.com/rabbits0209/komari/database/tasks"
 )
 
 // POST body: clients []string, target, task_type string, interval int

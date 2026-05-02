@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/komari-monitor/komari/api"
-	"github.com/komari-monitor/komari/database/tasks"
+	"github.com/rabbits0209/komari/api"
+	"github.com/rabbits0209/komari/database/tasks"
 )
 
 type PublicPingTask struct {

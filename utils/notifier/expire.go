@@ -5,12 +5,12 @@ import (
 	"math"
 	"time"
 
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database/clients"
-	"github.com/komari-monitor/komari/database/models"
-	messageevent "github.com/komari-monitor/komari/database/models/messageEvent"
-	"github.com/komari-monitor/komari/utils/messageSender"
-	"github.com/komari-monitor/komari/utils/renewal"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database/clients"
+	"github.com/rabbits0209/komari/database/models"
+	messageevent "github.com/rabbits0209/komari/database/models/messageEvent"
+	"github.com/rabbits0209/komari/utils/messageSender"
+	"github.com/rabbits0209/komari/utils/renewal"
 )
 
 func CheckExpireScheduledWork() {

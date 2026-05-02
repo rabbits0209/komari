@@ -14,7 +14,7 @@
 
 ### Important Note
 
-⚠️ **The projects under Akizon77's personal repository are no longer maintained. Please use the projects under the organization (komari-monitor).**
+⚠️ **The projects under Akizon77's personal repository are no longer maintained. Please use the projects under the organization (rabbits0209).**
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### 重要提醒
 
-⚠️ **Akizon77 个人仓库的项目已经不再使用，请使用组织（komari-monitor）下的项目。**
+⚠️ **Akizon77 个人仓库的项目已经不再使用，请使用组织（rabbits0209）下的项目。**
 
 ---
 
@@ -50,7 +50,7 @@
 
 ### 重要な注意事項
 
-⚠️ **Akizon77 の個人リポジトリのプロジェクトは使用されなくなりました。組織（komari-monitor）下のプロジェクトを使用してください。**
+⚠️ **Akizon77 の個人リポジトリのプロジェクトは使用されなくなりました。組織（rabbits0209）下のプロジェクトを使用してください。**
 
 ---
 

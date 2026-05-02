@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/komari-monitor/komari/database/auditlog"
-	"github.com/komari-monitor/komari/database/clients"
-	"github.com/komari-monitor/komari/database/models"
-	messageevent "github.com/komari-monitor/komari/database/models/messageEvent"
-	"github.com/komari-monitor/komari/utils/messageSender"
-	"github.com/komari-monitor/komari/ws"
+	"github.com/rabbits0209/komari/database/auditlog"
+	"github.com/rabbits0209/komari/database/clients"
+	"github.com/rabbits0209/komari/database/models"
+	messageevent "github.com/rabbits0209/komari/database/models/messageEvent"
+	"github.com/rabbits0209/komari/utils/messageSender"
+	"github.com/rabbits0209/komari/ws"
 )
 
 func CheckAndAutoRenewal(client models.Client) {

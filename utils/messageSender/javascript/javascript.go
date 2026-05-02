@@ -8,8 +8,8 @@ import (
 
 	"github.com/dop251/goja"
 	"github.com/dop251/goja_nodejs/require"
-	"github.com/komari-monitor/komari/database/models"
-	"github.com/komari-monitor/komari/utils/messageSender/factory"
+	"github.com/rabbits0209/komari/database/models"
+	"github.com/rabbits0209/komari/utils/messageSender/factory"
 )
 
 type JavaScriptSender struct {

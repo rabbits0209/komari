@@ -5,10 +5,10 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/komari-monitor/komari/api"
-	"github.com/komari-monitor/komari/database/auditlog"
-	clipboardDB "github.com/komari-monitor/komari/database/clipboard"
-	"github.com/komari-monitor/komari/database/models"
+	"github.com/rabbits0209/komari/api"
+	"github.com/rabbits0209/komari/database/auditlog"
+	clipboardDB "github.com/rabbits0209/komari/database/clipboard"
+	"github.com/rabbits0209/komari/database/models"
 )
 
 // GetClipboard retrieves a clipboard entry by ID

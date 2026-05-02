@@ -6,12 +6,12 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"
-	"github.com/komari-monitor/komari/common"
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database/accounts"
-	"github.com/komari-monitor/komari/database/dbcore"
-	"github.com/komari-monitor/komari/database/models"
-	"github.com/komari-monitor/komari/ws"
+	"github.com/rabbits0209/komari/common"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database/accounts"
+	"github.com/rabbits0209/komari/database/dbcore"
+	"github.com/rabbits0209/komari/database/models"
+	"github.com/rabbits0209/komari/ws"
 )
 
 func GetClients(c *gin.Context) {

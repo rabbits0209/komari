@@ -14,11 +14,11 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/komari-monitor/komari/api"
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database/dbcore"
-	"github.com/komari-monitor/komari/database/models"
-	"github.com/komari-monitor/komari/public"
+	"github.com/rabbits0209/komari/api"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database/dbcore"
+	"github.com/rabbits0209/komari/database/models"
+	"github.com/rabbits0209/komari/public"
 )
 
 // UploadTheme 上传主题

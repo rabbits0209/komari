@@ -1,11 +1,11 @@
 package admin
 
 import (
-	"github.com/komari-monitor/komari/api"
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database/auditlog"
-	"github.com/komari-monitor/komari/database/records"
-	"github.com/komari-monitor/komari/database/tasks"
+	"github.com/rabbits0209/komari/api"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database/auditlog"
+	"github.com/rabbits0209/komari/database/records"
+	"github.com/rabbits0209/komari/database/tasks"
 
 	"github.com/gin-gonic/gin"
 )

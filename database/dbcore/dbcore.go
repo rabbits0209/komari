@@ -12,11 +12,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/komari-monitor/komari/cmd/flags"
-	"github.com/komari-monitor/komari/common"
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database/models"
-	logutil "github.com/komari-monitor/komari/utils/log"
+	"github.com/rabbits0209/komari/cmd/flags"
+	"github.com/rabbits0209/komari/common"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database/models"
+	logutil "github.com/rabbits0209/komari/utils/log"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

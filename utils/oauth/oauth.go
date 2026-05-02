@@ -6,10 +6,10 @@ import (
 	"log"
 	"sync"
 
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database"
-	"github.com/komari-monitor/komari/database/models"
-	"github.com/komari-monitor/komari/utils/oauth/factory"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database"
+	"github.com/rabbits0209/komari/database/models"
+	"github.com/rabbits0209/komari/utils/oauth/factory"
 )
 
 var (

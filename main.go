@@ -4,9 +4,9 @@ import (
 	"log"
 	"log/slog"
 
-	"github.com/komari-monitor/komari/cmd"
-	"github.com/komari-monitor/komari/utils"
-	logutil "github.com/komari-monitor/komari/utils/log"
+	"github.com/rabbits0209/komari/cmd"
+	"github.com/rabbits0209/komari/utils"
+	logutil "github.com/rabbits0209/komari/utils/log"
 )
 
 func main() {

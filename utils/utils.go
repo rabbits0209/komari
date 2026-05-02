@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/komari-monitor/komari/common"
-	"github.com/komari-monitor/komari/database/models"
+	"github.com/rabbits0209/komari/common"
+	"github.com/rabbits0209/komari/database/models"
 )
 
 // AverageReport 根据 topPercentage 参数计算报告的平均值。

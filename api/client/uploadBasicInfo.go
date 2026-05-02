@@ -3,9 +3,9 @@ package client
 import (
 	"net"
 
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database/clients"
-	"github.com/komari-monitor/komari/utils/geoip"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database/clients"
+	"github.com/rabbits0209/komari/utils/geoip"
 
 	"github.com/gin-gonic/gin"
 )

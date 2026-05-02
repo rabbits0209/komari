@@ -5,11 +5,11 @@ import (
 	"slices"
 
 	"github.com/gin-gonic/gin"
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database/accounts"
-	"github.com/komari-monitor/komari/database/auditlog"
-	"github.com/komari-monitor/komari/utils"
-	"github.com/komari-monitor/komari/utils/oauth"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database/accounts"
+	"github.com/rabbits0209/komari/database/auditlog"
+	"github.com/rabbits0209/komari/utils"
+	"github.com/rabbits0209/komari/utils/oauth"
 )
 
 // /api/oauth

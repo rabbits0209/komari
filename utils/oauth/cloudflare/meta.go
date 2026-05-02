@@ -1,7 +1,7 @@
 package cloudflare
 
 import (
-	"github.com/komari-monitor/komari/utils/oauth/factory"
+	"github.com/rabbits0209/komari/utils/oauth/factory"
 )
 
 func init() {

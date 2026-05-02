@@ -4,11 +4,11 @@ import (
 	"net"
 
 	"github.com/gin-gonic/gin"
-	"github.com/komari-monitor/komari/api"
-	"github.com/komari-monitor/komari/config"
-	"github.com/komari-monitor/komari/database/models"
-	"github.com/komari-monitor/komari/utils/geoip"
-	"github.com/komari-monitor/komari/utils/messageSender"
+	"github.com/rabbits0209/komari/api"
+	"github.com/rabbits0209/komari/config"
+	"github.com/rabbits0209/komari/database/models"
+	"github.com/rabbits0209/komari/utils/geoip"
+	"github.com/rabbits0209/komari/utils/messageSender"
 )
 
 func TestSendMessage(c *gin.Context) {

@@ -1,9 +1,9 @@
 package notification
 
 import (
-	"github.com/komari-monitor/komari/database/dbcore"
-	"github.com/komari-monitor/komari/database/models"
-	"github.com/komari-monitor/komari/utils/notifier"
+	"github.com/rabbits0209/komari/database/dbcore"
+	"github.com/rabbits0209/komari/database/models"
+	"github.com/rabbits0209/komari/utils/notifier"
 	"gorm.io/gorm"
 )
 

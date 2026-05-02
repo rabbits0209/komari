@@ -6,12 +6,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/komari-monitor/komari/database/clients"
-	"github.com/komari-monitor/komari/database/dbcore"
-	"github.com/komari-monitor/komari/database/models"
-	messageevent "github.com/komari-monitor/komari/database/models/messageEvent"
-	"github.com/komari-monitor/komari/database/records"
-	"github.com/komari-monitor/komari/utils/messageSender"
+	"github.com/rabbits0209/komari/database/clients"
+	"github.com/rabbits0209/komari/database/dbcore"
+	"github.com/rabbits0209/komari/database/models"
+	messageevent "github.com/rabbits0209/komari/database/models/messageEvent"
+	"github.com/rabbits0209/komari/database/records"
+	"github.com/rabbits0209/komari/utils/messageSender"
 )
 
 // LoadNotificationService 管理定时器和任务

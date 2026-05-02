@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/komari-monitor/komari/database/models"
-	"github.com/komari-monitor/komari/ws"
+	"github.com/rabbits0209/komari/database/models"
+	"github.com/rabbits0209/komari/ws"
 )
 
 // PingTaskManager 管理定时器和任务

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/komari-monitor/komari/utils/messageSender/factory"
+	"github.com/rabbits0209/komari/utils/messageSender/factory"
 )
 
 type EmailSender struct {

@@ -1,4 +1,4 @@
-module github.com/komari-monitor/komari
+module github.com/rabbits0209/komari
 
 go 1.24.0
 
