@@ -80,7 +80,7 @@ sudo ./install-komari.sh
 
 1. フロントエンドの静的ファイルをビルドします:
    ```bash
-   git clone https://github.com/komari-monitor/komari-web
+   git clone https://github.com/rabbits0209/komari-web
    cd komari-web
    npm install
    npm run build
